@@ -10,6 +10,11 @@ This app I developed to practice with html routing, api routing, and connecting 
 https://fitness--tracker.herokuapp.com/
 
 # Images
+![exercise view](https://github.com/paulrobhendrickson/fitness-tracker/blob/master/images/exercise-view.png?raw=true)
+
+![main view](https://github.com/paulrobhendrickson/fitness-tracker/blob/master/images/main-view.png)
+
+![workout view](https://github.com/paulrobhendrickson/fitness-tracker/blob/master/images/workout-dashboard.png)
 
 # Installation
 NPM install should be run, NPM start should be run after. The app will auto run on port 3000 if run locally
